@@ -41,10 +41,8 @@
 <br>
 
 - **[games](https://github.com/lia-213/games)** *(private for now, going public soon)* — following [One Lone Coder](https://www.youtube.com/@javidx9)'s series across C++, C, Python, Java, and HTML/CSS/JS. Tetris ✅ Snake ✅ FPS engine 🚧 (still fighting with colour rendering)
-- **[clash-reactor](https://github.com/lia-213/clash-reactor)** / **[clash-emotes-hackathon](https://github.com/lia-213/clash-emotes-hackathon)** — Clash-themed emote/reaction detection
-- **[simple-mediapipe-project](https://github.com/lia-213/simple-mediapipe-project)** — computer vision experiments with MediaPipe
-- **[malapropismMania](https://github.com/lia-213/malapropismMania)** — a CLI game for anyone who mixes up their words and phrases
-- **[tipOfMyTongue](https://github.com/lia-213/tipOfMyTongue)** — word-recall helper
+- **[malapropismMania](https://github.com/lia-213/malapropismMania)** — a CLI game for anyone who mixes up their words and phrases (vibecoded base, now hoping to extend to app/website)
+- **[tipOfMyTongue](https://github.com/lia-213/tipOfMyTongue)** — word-recall helper (vibecoded base, now hoping to extend to app/website)
 
 </details>
 
